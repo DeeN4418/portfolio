@@ -7,9 +7,9 @@
     <th>Описание</th>
     <th>Ссылка на репозиторий</th>
   </tr>
-  <tr><td>Проект 1</td>
-    <td>Краткое описание проекта 1</td>
-    <td><a href="ссылка_на_репозиторий_проекта_1">GitHub</a></td>
+  <tr><td>Доставка "Магнита"</td>
+    <td>Расчет эффективности доставки для курьера в доставке "Магнита"</td>
+    <td><a href="https://github.com/DeeN4418/magnit_delivery.git">https://github.com/DeeN4418/magnit_delivery.git</a></td>
   </tr><tr>
     <td>Проект 2</td>
     <td>Краткое описание проекта 2</td>
