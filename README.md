@@ -8,7 +8,7 @@
     <th>Ссылка на репозиторий</th>
   </tr>
   <tr><td>Доставка "Магнита"</td>
-    <td>Расчет эффективности доставки для курьера в доставке "Магнита"</td>
+    <td>Расчет эффективности доставки для автокурьера в "Магните"</td>
     <td><a href="https://github.com/DeeN4418/magnit_delivery.git">https://github.com/DeeN4418/magnit_delivery.git</a></td>
   </tr><tr>
     <td>Проект 2</td>
