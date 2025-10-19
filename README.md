@@ -18,7 +18,7 @@
     <td>Проект, выполненный в рамках хакатона 2GIS (Москва, 4-5 октября 2025 г.</td>
     <td><a href="https://github.com/DeeN4418/Hack_2GIS">https://github.com/DeeN4418/Hack_2GIS</a></td>
   </tr>
-<-- <tr>
+<!-- <tr>
     <td>Проект 2</td>
     <td>Краткое описание проекта 2</td>
     <td><a href="ссылка_на_репозиторий_проекта_2">GitHub</a></td>
