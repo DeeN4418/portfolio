@@ -18,6 +18,12 @@
     <td>Проект, выполненный в рамках хакатона 2GIS (Москва, 4-5 октября 2025 г.</td>
     <td><a href="https://github.com/DeeN4418/Hack_2GIS">https://github.com/DeeN4418/Hack_2GIS</a></td>
   </tr>
+ 
+  <tr>
+    <td>Скрипты для обработки экспериментальных данных</td>
+    <td>Два скрипта для обработки данных, полученных с характериографа</td>
+    <td><a href="https://github.com/DeeN4418/data_processing">https://github.com/DeeN4418/data_processing</a></td>
+  </tr>
 <!-- <tr>
     <td>Проект 2</td>
     <td>Краткое описание проекта 2</td>
