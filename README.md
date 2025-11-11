@@ -24,12 +24,12 @@
     <td>Два скрипта для обработки данных, полученных с характериографа</td>
     <td><a href="https://github.com/DeeN4418/data_processing">https://github.com/DeeN4418/data_processing</a></td>
   </tr>
-<!-- <tr>
-    <td>Проект 2</td>
-    <td>Краткое описание проекта 2</td>
-    <td><a href="ссылка_на_репозиторий_проекта_2">GitHub</a></td>
+<tr>
+    <td>Анализ сопротивлений</td>
+    <td>Проанализированы величины сопротивлений углеродных пленок</td>
+    <td><a href="https://github.com/DeeN4418/resistance">https://github.com/DeeN4418/resistance</a></td>
   </tr>
-  <tr>
+ <!--  <tr>
     <td>Проект 3</td>
     <td>Краткое описание проекта 3</td>
     <td><a href="ссылка_на_репозиторий_проекта_3">GitHub</a></td>
@@ -49,5 +49,10 @@
 <hr>
 <div>
 <h4>Скрипты для обработки экспериментальных данных</h4>
+  
+</div>
+<hr>
+<div>
+<h4>Анализ сопротивлений</h4>
   
 </div>
