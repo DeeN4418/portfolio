@@ -35,7 +35,7 @@
     <td><a href="https://github.com/DeeN4418/4_20">https://github.com/DeeN4418/4_20</a></td>
   </tr>
   <tr>
-    <td><a href="#t6">Статистика конференции IVNC</td>
+    <td><a href="#t6">Статистика конференции IVNC (в работе)</td>
     <td>В проекте проводился анализ информации по конференции IVNC и построение дашборда в Yandex DataLens. <a href="https://datalens.ru/1gh83zydso9wm">Ссылка на дашборд</a></td>
     <td><a href="https://github.com/DeeN4418/IVNC">https://github.com/DeeN4418/IVNC</a></td>
   </tr>
@@ -87,4 +87,10 @@
 2. Z-тест пропорций <br>  
 3. тест Крускал-Уоллис<br>   
 4. тест Манна-Уитни   </p>
+</div>
+<hr>
+<div>
+<h4 id="t6">Статистика конференции IVNC (в работе)</h4>
+  <p>В проекте проводился анализ информации по конференции IVNC и построение дашборда в Yandex DataLens. <a href="https://datalens.ru/1gh83zydso9wm">Ссылка на дашборд</a><br>
+    </p>
 </div>
