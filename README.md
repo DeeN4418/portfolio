@@ -1,4 +1,7 @@
-# portfolio
+# portfolio<br>
+<p>Почта для связи: <a href="mailto:denisvn2013@yandex.ru">denisvn2013@yandex.ru</a></p>
+<p>Telegram для связи: <a href="https://t.me/sprofras">@sprofras</a></p>
+
 Пет-проекты и просто проекты по аналитике и не только
 <h3>Оглавление</h3>
 <table>
