@@ -101,4 +101,5 @@
 <h4 id="t6">Статистика конференции IVNC (в работе)</h4>
   <p>В проекте проводился анализ информации по конференции IVNC и построение дашборда в Yandex DataLens. <a href="https://datalens.ru/1gh83zydso9wm">Ссылка на дашборд</a><br>
     </p>
+  <a href="https://github.com/DeeN4418/IVNC">https://github.com/DeeN4418/IVNC</a>
 </div>
